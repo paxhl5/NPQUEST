@@ -1,5 +1,5 @@
 # NPQUEST
-The **Natural Products** **Qualitative Unification**, **Scoring**, **Evaluation** and **Tracking** script can be used to quickly select and rank nodes from a molecular network produced via [GNPS](https://gnps.ucsd.edu) and refined on [Cytoscape](https://cytoscape.org/). 
+The **Natural Products** **Qualitative Unification**, **Evaluation**, **Scoring**, and **Tracking** script can be used to quickly select and rank nodes from a molecular network produced via [GNPS](https://gnps.ucsd.edu) and refined on [Cytoscape](https://cytoscape.org/). 
 ## Requirements
 - [dplyr](https://cran.r-project.org/web/packages/dplyr/)
 - [shiny](https://cran.r-project.org/web/packages/shiny/)
